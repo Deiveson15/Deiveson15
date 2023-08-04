@@ -5,8 +5,8 @@
 - 💞️ 1121 ...
 - 📫 Brazil ...
 ### Você pode entrar em contato comigo email:
-![logo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![logo](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![logo](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)!
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/WS.SZ_/)
+![logo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ws.sz_?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
 
 
 Deivesonjunior009@gmail.com
